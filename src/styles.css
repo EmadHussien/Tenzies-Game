@@ -126,9 +126,6 @@ button:active{
 
 @media (max-width:500px)
 {
-  html{
-    height:90vh;
-  }
   .current{
     top: -2%;
     font-size: 1rem;
@@ -136,7 +133,7 @@ button:active{
   }
   
   body{
-    padding: 50px 0px;
+    padding: 30px 0px;
   }
   .die-grid{
 
