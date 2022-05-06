@@ -8,7 +8,7 @@ body {
   background-color: #0b2434;
   padding: 70px 60px;
   font-family: 'Karla', sans-serif;
-  overflow: hidden;
+  overflow-x: hidden;
   }
 #root {
   height: 100%;
