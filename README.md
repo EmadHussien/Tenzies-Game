@@ -10,7 +10,7 @@ game idea : Roll until all dice are the same. Click each die to freeze it at its
 5. View optimal layout for different screen sizes.
 
 ##### Technologies : HTML , CSS , REACT (using Hooks).
-##### Packges used : Conffetti , nanoid.
+##### Packages used : Confetti , nanoid.
 
 #### live here https://tenzies-game-emadhussien.vercel.app/
 
